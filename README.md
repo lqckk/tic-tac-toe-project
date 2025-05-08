@@ -1,3 +1,2 @@
 # tic-tac-toe-project
-tic tac toe game 
- palaidiet spēli, izmantojot integrētā izstrādes vide IDLE vai Visual Studio 
+Šī ir vienkārša krustiņu un nullīšu (Tic-Tac-Toe) spēle, kas rakstīta Python valodā un paredzēta diviem spēlētājiem, kuri spēlē uz viena datora. Lai spēli palaistu, nepieciešams Python 3, un to var darīt, izpildot failu terminālī ar komandu python tic_tac_toe.py. Spēles laukums sastāv no 9 lauciņiem, un spēlētāji pārmaiņus ievada skaitļus no 1 līdz 9, lai ievietotu savu simbolu X vai O attiecīgajā pozīcijā. Mērķis ir iegūt trīs vienādus simbolus vienā rindā, kolonnā vai pa diagonāli. Spēle beidzas ar uzvaru vai neizšķirtu, ja visi lauciņi ir aizņemti. Projekts ir piemērots Python iesācējiem, jo palīdz saprast pamatjēdzienus kā ciklus, nosacījumus un sarakstu izmantošanu.
